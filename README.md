@@ -3,7 +3,7 @@
 Ce projet a pour but de m'entraîner à programmer des **GAN (Generative Adversarial Networks)**, 
 en particulier un **GAN conditionnel**, en utilisant le jeu de données **MNIST**.
 Ce code est inspiré du cours de "Generative Adversarial Networks (GANs) Specialization", 
-de DeepLearning.AI accessible à cette adresse: [DeepLearning.AI GANs Specialization.](https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/
+de DeepLearning.AI accessible à cette adresse: [DeepLearning.AI GANs Specialization.](https://www.deeplearning.ai/courses/generative-adversarial-networks-gans-specialization/)
 
 ## Objectif
 
